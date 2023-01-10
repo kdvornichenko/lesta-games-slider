@@ -1,1 +1,1 @@
-Deploy: kdvornichenko.github.io/lesta-games-slider/[https://kdvornichenko.github.io/lesta-games-slider/]
+Deploy: [kdvornichenko.github.io/lesta-games-slider/](https://kdvornichenko.github.io/lesta-games-slider/)
