@@ -4,43 +4,31 @@ window.addEventListener('DOMContentLoaded', () => {
 			title: 'ссср',
 			count: '141',
 			models: 'Т-34, ИС, ИС-7, КВ-1, ИСУ-152',
-			src: './img/technic-ussr.png',
-			webp: './img/technic-ussr.webp',
 		},
 		germany: {
 			title: 'ссср',
 			count: '141',
 			models: 'Т-34, ИС, ИС-7, КВ-1, ИСУ-152',
-			src: './img/technic-ussr.png',
-			webp: './img/technic-ussr.webp',
 		},
 		usa: {
 			title: 'ссср',
 			count: '141',
 			models: 'Т-34, ИС, ИС-7, КВ-1, ИСУ-152',
-			src: './img/technic-ussr.png',
-			webp: './img/technic-ussr.webp',
 		},
 		france: {
 			title: 'ссср',
 			count: '141',
 			models: 'Т-34, ИС, ИС-7, КВ-1, ИСУ-152',
-			src: './img/technic-ussr.png',
-			webp: './img/technic-ussr.webp',
 		},
 		uk: {
 			title: 'ссср',
 			count: '141',
 			models: 'Т-34, ИС, ИС-7, КВ-1, ИСУ-152',
-			src: './img/technic-ussr.png',
-			webp: './img/technic-ussr.webp',
 		},
 		czech: {
 			title: 'ссср',
 			count: '141',
 			models: 'Т-34, ИС, ИС-7, КВ-1, ИСУ-152',
-			src: './img/technic-ussr.png',
-			webp: './img/technic-ussr.webp',
 		},
 	}
 
